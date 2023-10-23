@@ -12,7 +12,7 @@
 
 ## Chapter I
 
-![s21_decimal](misc/images/s21_decimal.png)
+![s21_decimal](img/pic.png)
 
 ## Introduction
 
